@@ -11,7 +11,7 @@
 <div> 
   
   
- <a href="https://discord.gg/henrique#7328" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.com/channels/1077601282400985088/1077601282837201046" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </a>
   <a href="https://www.linkedin.com/in/henrique-pedro-a93772220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
