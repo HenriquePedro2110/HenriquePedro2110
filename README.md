@@ -1,7 +1,7 @@
 ## Olá, bem-vindo ao meu perfil!
 
-- 🔭 Atualmente trabalho como  jovem aprendiz
-- 📖 Estou estudando Python
+- 🔭 Cursando Desenvolvimento de Sistemas
+- 📖 Estou estudando Python e Java
 
 
 
